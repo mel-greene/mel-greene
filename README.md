@@ -1,6 +1,6 @@
 ## Hi, I'm Mel 👋
 
-I've spent 20 years inside brand, marketing, retail, tech, and revenue operations, and I kept running into the same wall: businesses aren't lacking people with skills, they're lacking systems to harness them effectively.
+I've spent 20 years inside brand, marketing, retail, tech, and revenue operations. Every business I worked in had smart, skilled people, and almost none of them had systems that put that skill to work.
 
 So systems are what I build now. I'm a marketing and brand strategist working in the AI era, and I run [Mel Greene Consulting](https://melgreene.com) from Vancouver. I help marketing and brand leaders actually use AI: strategy first, then the working system that delivers it.
 
