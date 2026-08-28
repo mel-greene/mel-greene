@@ -22,3 +22,5 @@ If you take one of these systems, rip out my rules and write in yours. That's th
 
 - 🌐 [melgreene.com](https://melgreene.com)
 - ✍️ [Weekly AI lessons on Substack](https://melgreeneconsulting.substack.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/melanie-greene)
+- 📱 [Instagram](https://www.instagram.com/melgreeneconsulting) · [TikTok](https://www.tiktok.com/@melgreeneconsulting)
