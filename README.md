@@ -23,6 +23,6 @@ If you take one of these systems, rip out my rules and write in yours. That's th
 ### Find me
 
 - 🌐 [melgreene.com](https://melgreene.com)
-- ✍️ [Weekly AI lessons on Substack](https://melgreeneconsulting.substack.com)
+- ✍️ [Get my weekly email: marketing and brand in the AI era](https://links.melgreene.com/widget/form/CEkSuQIiWKvFYfdfMPye)
 - 💼 [LinkedIn](https://www.linkedin.com/in/melanie-greene)
 - 📱 [Instagram](https://www.instagram.com/melgreeneconsulting) · [TikTok](https://www.tiktok.com/@melgreeneconsulting)
