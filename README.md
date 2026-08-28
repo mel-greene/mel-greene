@@ -1,6 +1,8 @@
 ## Hi, I'm Mel 👋
 
-I've spent 20 years inside brand, marketing, retail, tech, and revenue operations. Every business I worked in had smart, skilled people, and almost none of them had systems that put that skill to work.
+I'm a marketing and brand strategist, which makes me the wrong kind of person to have a GitHub profile.
+
+Except the AI era moved a real chunk of marketing work into code. My Reels get edited by an AI agent following a spec I wrote. My research runs while I sleep. So instead of describing my systems on a slide, I publish them here, working.
 
 So systems are what I build now. I'm a marketing and brand strategist working in the AI era, and I run [Mel Greene Consulting](https://melgreene.com) from Vancouver. I help marketing and brand leaders actually use AI: strategy first, then the working system that delivers it.
 
